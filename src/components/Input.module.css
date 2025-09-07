@@ -1,0 +1,7 @@
+/* custom css for input  */
+
+.input{
+  height: 4rem;
+  width: 50%;
+  border-radius: 0.5rem;
+}
